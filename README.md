@@ -2,6 +2,9 @@
 
 M.Care is an AI-powered tool designed to provide general information about visible conditions in medical images. By leveraging advanced generative AI models, M.Care offers educational insights into the possible causes, symptoms, and recommendations related to conditions visible in uploaded medical images.
 
+![image](https://github.com/user-attachments/assets/e8c3b31d-38d1-40be-8e6a-c7d92b28fb29)
+
+
 ## Features
 
 - **Image Upload**: Upload medical images in PNG, JPG, or JPEG format.
