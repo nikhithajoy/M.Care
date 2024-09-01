@@ -12,6 +12,10 @@ M.Care is an AI-powered tool designed to provide general information about visib
 - **Educational Information**: Provides detailed information about possible causes, symptoms, and recommendations based on the image analysis.
 - **User-Friendly Interface**: Simple and intuitive interface for easy interaction and navigation.
 
+![image](https://github.com/user-attachments/assets/bf539501-592a-4a29-8d4e-72e62ed28916)
+![image](https://github.com/user-attachments/assets/367ef608-0c5c-4a39-8710-3b07701572c6)
+
+
 ## Installation
 
 To run the M.Care application locally, follow these steps:
