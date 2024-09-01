@@ -15,7 +15,33 @@ M.Care is an AI-powered tool designed to provide general information about visib
 ![image](https://github.com/user-attachments/assets/bf539501-592a-4a29-8d4e-72e62ed28916)
 ![image](https://github.com/user-attachments/assets/c030290c-bd7b-488a-9c25-20e3fc213b3f)
 
+## Technology Stack
 
+- **Streamlit:** For building the web interface.
+- **Google Generative AI (Gemini API):** For generating insights based on the medical images.
+- **PIL (Pillow):** For image handling and processing.
+
+## Detailed Explanation
+
+### Gemini API
+
+The Gemini API by Google is used for analyzing medical images. It provides powerful AI models that can interpret the content of images and generate human-readable information about what is visible. In this project, the API is configured to analyze the uploaded medical images and provide insights such as:
+
+- **Possible Causes:** Factors that might lead to the visible condition.
+- **Symptoms and Characteristics:** General symptoms and characteristics associated with the condition.
+- **Recommendations:** Suggested next steps or actions to take based on the analysis.
+
+### How to Configure the API
+
+The Gemini API is configured using an API key, which is imported from a separate `api_key` module. Ensure that your API key is correctly set up to interact with the Gemini API.
+
+```python
+import google.generativeai as genai
+from api_key import api_key  # Ensure this imports the correct key
+
+# Configure the Gemini API
+genai.configure(api_key=api_key)
+```
 
 ## Installation
 
