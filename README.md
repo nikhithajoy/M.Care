@@ -13,7 +13,8 @@ M.Care is an AI-powered tool designed to provide general information about visib
 - **User-Friendly Interface**: Simple and intuitive interface for easy interaction and navigation.
 
 ![image](https://github.com/user-attachments/assets/bf539501-592a-4a29-8d4e-72e62ed28916)
-![image](https://github.com/user-attachments/assets/367ef608-0c5c-4a39-8710-3b07701572c6)
+![image](https://github.com/user-attachments/assets/c030290c-bd7b-488a-9c25-20e3fc213b3f)
+
 
 
 ## Installation
