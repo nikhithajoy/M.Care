@@ -23,7 +23,7 @@ To run the M.Care application locally, follow these steps:
 1. **Clone the Repository**:
    
 ```
-git clone https://github.com/your-username/mcare.git
+git clone https://github.com/nikhithajoy/M.Care.git
 ```
 
 2. **Navigate to the Project Directory:**
