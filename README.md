@@ -48,7 +48,7 @@ streamlit run app.py
 3. View Results: After the analysis is complete, the results will be displayed on the results page with detailed information about the condition visible in the uploaded image.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any questions or inquiries, please reach out to nikhitha.joy.official@gmail.com
