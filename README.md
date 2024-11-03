@@ -84,5 +84,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any questions or inquiries, please reach out to nikhitha.joy.official@gmail.com
-
-Read More on [Medium](https://medium.com/@nikhitha.joy.official/m-care-your-ai-powered-companion-in-medical-image-analysis-228e072eb1b9)
